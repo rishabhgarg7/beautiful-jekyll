@@ -11,7 +11,7 @@ bigimg:
     
     
  
-published: true    
+published: false   
 author : Rishabh garg
 tags: [project,data analysis]
 ---

@@ -4,7 +4,9 @@ title: Project- Your salary will depend on your formal education or not ?
 subtitle: Analysis of data related to education background!
 bigimg:
     - /img/Adult_project/background.jpg : Handshake
-    - /img/Adult_project/background.jpg : Pie chart
+    
+share-img: /img/Adult_project/background.jpg 
+published: true    
 author : Rishabh garg
 tags: [project,data analysis]
 ---

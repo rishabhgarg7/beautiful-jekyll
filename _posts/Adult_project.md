@@ -5,7 +5,7 @@ subtitle: Analysis of data related to education background!
 
 tags: [project,data analysis]
 ---
-___
+
 
 # Analysis of Data related to Salary and Education
 In this era of technology , education in the correct way as well as in productive way can leads to successfulness of a human being which is being determined by his satisfaction and the work he is doing in his near future.

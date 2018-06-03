@@ -1,4 +1,10 @@
+---
+layout: post
+title: Project- Your salary will depend on your formal education or not ?
+subtitle: Analysis of data related to education background!
 
+tags: [project,data analysis]
+---
 ___
 
 # Analysis of Data related to Salary and Education

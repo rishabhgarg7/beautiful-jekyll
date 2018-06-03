@@ -27,6 +27,7 @@ navbar-links:
   Projects: "projects"
   Education: "education"
   Contact: "contact"
+  Blog : "Blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,7 +70,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "rishug233@gmail.com"
   facebook: rishug7
   github: rishabhgarg7

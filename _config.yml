@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "http://rishabhgarg7.github.io/projects"
+  Projects: "projects"
   Education: "http://rishabhgarg7.github.io/education"
   Contact: "http://rishabhgarg7.github.io/contact"
 

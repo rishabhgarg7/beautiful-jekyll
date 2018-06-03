@@ -376,7 +376,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](/img/Adult_project/output_16_0.png)
 
 
 ### Takeaway from Heatmap--
@@ -403,7 +403,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](/img/Adult_project/output_19_0.png)
 
 
 ### Conclusion From the visualization--
@@ -445,7 +445,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](/img/Adult_project/output_23_0.png)
 
 
 ### Takeaway from the distribution of Eduactional Categories
@@ -470,7 +470,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](/img/Adult_project/output_26_0.png)
 
 
 It seems pretty awkawrd.Isn't it ? This visualization tells us that there is no correlation in between these attributes but wait we have to make sure it.** Mathematics and it's beauty helps us to do this **
@@ -503,7 +503,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](/img/Adult_project/output_31_0.png)
 
 
 It's time to uncover remaining  important patterns with-in the data.
@@ -518,7 +518,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![png](/img/Adult_project/output_33_0.png)
 
 
 ### Takeaways from this visualization--
@@ -580,7 +580,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](/img/Adult_project/output_37_0.png)
 
 
 ### Takeaways--
@@ -632,7 +632,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![png](/img/Adult_project/output_41_0.png)
 
 
 ## The major takeaways are -

@@ -8,10 +8,7 @@ bigimg:
     - /img/Adult_project/background2.jpg : Piechart
     - /img/Adult_project/background5.jpg : Graph
     
-    
-    
- 
-published: false   
+published: true  
 author : Rishabh garg
 tags: [project,data analysis]
 ---

@@ -410,7 +410,7 @@ ______________
 # Conclusions :
 
 _________
-- It is clearly showing us that **Number of positive axiliary nodes detected is the most important feature for classification **  as there is a very large difference between the central value of Number of positive axiliary nodes detected for those survived more than 5 years and those who had not which is signifying that more number of positive axiliary nodes means that the cancer has extended to large level and thus there is very maximum probability that it will not let live the patient more than 5 years and thus answering our **Q2 -  The number of positive axiliary nodes detected have anything related to the remaining life of patient ? **
+- It is clearly showing us that **Number of positive axiliary nodes detected is the most important feature for classification**  as there is a very large difference between the central value of Number of positive axiliary nodes detected for those survived more than 5 years and those who had not which is signifying that more number of positive axiliary nodes means that the cancer has extended to large level and thus there is very maximum probability that it will not let live the patient more than 5 years and thus answering our **Q2 -  The number of positive axiliary nodes detected have anything related to the remaining life of patient ? **
 _______
 - It is also confirming our initial belief of ** Q1 - Does the success of surgery depends upon age of patient or not ? ** <br/>
      No,the success of surgery does not depends upon the age of patient as there is very less difference between the  central value of age  for those who had survived for more than 5 years and those who hadn't.

@@ -1,5 +1,16 @@
+---
+layout: post
+title: Project- How long will you survive after breast cancer surgery?
+subtitle: Analysis of data related to breast cancer
+bigimg:
+    - /img/path.jpg
+    
+published: true  
+author : Rishabh garg
+tags: [project,data analysis]
+---
 
-#### This is the case study done by my regarding 306 patients who were suffered  from breast cancer.
+# This is the case study done by my regarding 306 patients who were suffered  from breast cancer.
 
 ** The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer. **
 
@@ -280,7 +291,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](/img/Cancer+Survival/output_13_0.png)
 
 
 ### Distribution of Number of positive axiliary nodes detected - Histogram with KDE
@@ -299,7 +310,7 @@ plt.show()
 
 
 
-![png](output_15_1.png)
+![png](/img/Cancer+Survival/output_15_1.png)
 
 
 <br/>
@@ -318,7 +329,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](/img/Cancer+Survival/output_18_0.png)
 
 
 <br/>
@@ -394,7 +405,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](/img/Cancer+Survival/output_23_0.png)
 
 
 
@@ -404,7 +415,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](/img/Cancer+Survival/output_24_0.png)
 
 
 <br/>

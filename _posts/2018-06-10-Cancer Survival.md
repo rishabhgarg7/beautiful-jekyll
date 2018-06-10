@@ -3,6 +3,7 @@
 layout: post
 title: Project- How long will you survive after breast cancer surgery ?
 subtitle: Analysis of data related to patients who are suffered from breast cancer!
+bigimg: /img/path.jpg
 published: true  
 author : Rishabh garg
 tags: [project,data analysis]

@@ -12,7 +12,7 @@ tags: [project,data analysis]
 
 # This is the case study done by my regarding 306 patients who were suffered  from breast cancer.
 
-** The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer. **
+**The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.**
 
  Number of Instances: 306 
 
@@ -141,13 +141,13 @@ data.head()
 ## Questions that can be answered :-
 <br/>
 
-**  Q1 - Does the success of surgery depends upon age of patient or not ? ** <br/>
+**Q1 - Does the success of surgery depends upon age of patient or not ?** <br/>
 
-** Q2 -  The number of positive axiliary nodes detected have anything related to the remaining life of patient ? ** <br/>
+**Q2 -  The number of positive axiliary nodes detected have anything related to the remaining life of patient ?** <br/>
 
-** Q3 - Does number of positive axiliary nodes detected directly depend upon age ? ** <br/>
+**Q3 - Does number of positive axiliary nodes detected directly depend upon age ?** <br/>
 
-** Q4 - Given this information can you classify whether the patient will more than 5 years or not ? ** <br/>
+**Q4 - Given this information can you classify whether the patient will more than 5 years or not ?**<br/>
 
 
 

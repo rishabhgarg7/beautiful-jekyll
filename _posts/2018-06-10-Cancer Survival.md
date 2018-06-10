@@ -6,7 +6,9 @@ subtitle: Analysis of data related to patients who are suffered from breast canc
 published: true  
 author : Rishabh garg
 tags: [project,data analysis]
+
 ---
+
 ## The connection-
 - The axillary lymph nodes are usually the first set of lymph nodes where breast cancer will spread.
 

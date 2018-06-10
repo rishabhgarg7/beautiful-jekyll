@@ -1,4 +1,27 @@
 
+---
+layout: post
+title: Project- How long will you survive after breast cancer surgery ?
+subtitle: Analysis of data related to patients who are suffered from breast cancer!
+published: true  
+author : Rishabh garg
+tags: [project,data analysis]
+---
+## The connection-
+- The axillary lymph nodes are usually the first set of lymph nodes where breast cancer will spread.
+
+- And because the breast and armpit are close to each other, the lymph nodes are a common place where this type of cancer spreads.
+
+- As a general rule, the more a cancer has spread from its starting point, the worse the prognosis may be for a person.
+
+- Also, if the cancer has spread to the axillary lymph nodes, a doctor will usually recommend removing the lymph nodes during the surgery to remove the originating tumor.
+
+- Lymph nodes are responsible for draining lymph fluid, so their removal can cause some side effects after surgery
+
+## Domain Information-
+- Axiliary nodes are those nodes which are present in underarm area and  a normal body have about 20-40 axiliary nodes.The role they play is to drain the lymph (a clear or white fluid made up of white blood cells) produced from the breasts and surrounding areas, including the neck, the upper arms, and the underarm area.
+- Positive axiliary nodes signifies the number of axiliary nodes which are damaged due to  breast cancer and they have to removed by surgeon during surgery.
+
 ### The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
  Number of Instances: 306 
@@ -11,21 +34,6 @@
 - Number of positive axillary nodes detected (numerical) <br/>
 - Survival status (class attribute) 1 => the patient survived 5 years or longer, 2 = the patient died within 5 year <br/><br/>
 Information from Kaggle -https://www.kaggle.com/gilsousa/habermans-survival-data-set/data
-
-## Domain Information-
-- Axiliary nodes are those nodes which are present in underarm area and  a normal body have about 20-40 axiliary nodes.The role they play is to drain the lymph (a clear or white fluid made up of white blood cells) produced from the breasts and surrounding areas, including the neck, the upper arms, and the underarm area.
-- Positive axiliary nodes signifies the number of axiliary nodes which are damaged due to  breast cancer and they have to removed by surgeon during surgery.
-
-## The connection-
-- The axillary lymph nodes are usually the first set of lymph nodes where breast cancer will spread.
-
-- And because the breast and armpit are close to each other, the lymph nodes are a common place where this type of cancer spreads.
-
-- As a general rule, the more a cancer has spread from its starting point, the worse the prognosis may be for a person.
-
-- Also, if the cancer has spread to the axillary lymph nodes, a doctor will usually recommend removing the lymph nodes during the surgery to remove the originating tumor.
-
-- Lymph nodes are responsible for draining lymph fluid, so their removal can cause some side effects after surgery
 
 
 ```python

@@ -279,7 +279,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](/img/Cancer+Survival/output_12_0.png)
 
 
 ## Distribution of Number of positive axiliary nodes detected - Histogram with KDE
@@ -298,7 +298,7 @@ plt.show()
 
 
 
-![png](output_14_1.png)
+![png](/img/Cancer+Survival/output_14_1.png)
 
 
 _______
@@ -392,7 +392,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](/img/Cancer+Survival/output_22_0.png)
 
 
 
@@ -402,7 +402,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](/img/Cancer+Survival/output_23_0.png)
 
 
 ___________________

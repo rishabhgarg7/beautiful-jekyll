@@ -336,7 +336,7 @@ plt.show()
 ### Takeaways-
 - It is confirming our belief that there is no correlation between two columns of our data except between number of positive axiliary nodes detected and Survival status of 0.2
 
-** It is also answering our Q3 - Does number of positive axiliary nodes detected directly depend upon age ? **
+**It is also answering our Q3 - Does number of positive axiliary nodes detected directly depend upon age ?**
 - As there is no correlation between the two hence, number of positive axiliary nodes detected  does not depend upon age of patient
 <br/>
 
@@ -423,7 +423,7 @@ plt.show()
 # Conclusions :
 
 <br/>
-- It is clearly showing us that **Number of positive axiliary nodes detected is the most important feature for classification **  as there is a very large difference between the central value of Number of positive axiliary nodes detected for those survived more than 5 years and those who had not which is signifying that more number of positive axiliary nodes means that the cancer has extended to large level and thus there is very maximum probability that it will not let live the patient more than 5 years and thus answering our **Q2 -  The number of positive axiliary nodes detected have anything related to the remaining life of patient ? **
+- It is clearly showing us that **Number of positive axiliary nodes detected is the most important feature for classification** as there is a very large difference between the central value of Number of positive axiliary nodes detected for those survived more than 5 years and those who had not which is signifying that more number of positive axiliary nodes means that the cancer has extended to large level and thus there is very maximum probability that it will not let live the patient more than 5 years and thus answering our **Q2 -  The number of positive axiliary nodes detected have anything related to the remaining life of patient ?**
 <br/>
 - It is also confirming our initial belief of ** Q1 - Does the success of surgery depends upon age of patient or not ? ** <br/>
      No,the success of surgery does not depends upon the age of patient as there is very less difference between the  central value of age  for those who had survived for more than 5 years and those who hadn't.

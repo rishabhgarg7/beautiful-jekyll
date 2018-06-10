@@ -56,7 +56,7 @@ warnings.filterwarnings("ignore")
 
 ```python
 #Let's load the dataset into Pandas Dataframe
-data = pd.read_csv("C:\\Users\\Prince\\datasets\\haberman.csv",header=None,names=["Age","Year of operation","Number of positive axiliary nodes detected","Survival status"])
+data = pd.read_csv("haberman.csv",header=None,names=["Age","Year of operation","Number of positive axiliary nodes detected","Survival status"])
 ```
 
 

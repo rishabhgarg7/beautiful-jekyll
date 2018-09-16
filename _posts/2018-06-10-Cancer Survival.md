@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project- How long will you survive after breast cancer surgery?
+title: How long will you survive after breast cancer surgery?
 subtitle: Analysis of data related to breast cancer
 bigimg:
     - /img/path.jpg

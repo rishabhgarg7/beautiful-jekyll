@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project- Your salary will depend on your formal education or not ?
+title: Your salary will depend on your formal education or not ?
 subtitle: Analysis of data related to education background!
 bigimg:
     - /img/Adult_project/background.jpg : Handshake

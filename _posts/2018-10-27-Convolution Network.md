@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Guide to understand CNN
-subtitle: Get to know CNN like never before!
+subtitle: Get to know Convolution Neural Network like never before!
 bigimg:
     - /img/path.jpg
     
